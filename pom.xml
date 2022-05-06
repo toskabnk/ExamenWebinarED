@@ -6,7 +6,7 @@
 
     <groupId>com.svalero</groupId>
     <artifactId>ExamenEntornos</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.0</version>
     <packaging>war</packaging>
 
     <name>ExamenEntornos</name>
