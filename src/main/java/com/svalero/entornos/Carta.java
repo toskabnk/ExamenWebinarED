@@ -1,8 +1,8 @@
 package com.svalero.entornos;
 
 public class Carta {
-    String palo;
-    String numero;
+    private String palo;
+    private String numero;
 
     public Carta(String palo, String numero){
         this.numero = numero;
